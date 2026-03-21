@@ -41,7 +41,9 @@ set_value = {1, 2, 3, 4, 5}
 print("Set value :", set_value)
 print("Type :", type(set_value))
 
-output:-
+OUTPUT:-
+
+
 Integer value : 11
 Type : <class 'int'>
 
