@@ -1,5 +1,5 @@
 # Atharv-Patil.
-Assignment-1:
+Assignment-1: Demonstrate the basic data types in python.
 # Integer
 integer_value = 11
 print("Integer value :", integer_value)
