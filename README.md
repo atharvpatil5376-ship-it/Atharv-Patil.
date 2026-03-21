@@ -44,6 +44,7 @@ print("Type :", type(set_value))
 OUTPUT:-
 
 
+
 Integer value : 11
 Type : <class 'int'>
 
